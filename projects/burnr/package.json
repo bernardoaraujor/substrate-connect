@@ -23,7 +23,7 @@
     "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "^4.0.0-alpha.61",
     "@polkadot/api": "^8.3.2",
-    "@polkadot/api-augment": "^8.3.2",
+    "@polkadot/api-augment": "^8.7.1",
     "@polkadot/keyring": "^9.2.1",
     "@polkadot/react-identicon": "^1.4.1",
     "@polkadot/rpc-provider": "^8.3.2",
