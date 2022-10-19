@@ -3104,7 +3104,7 @@ __metadata:
     react: ^18.1.0
     react-dom: ^18.1.0
     react-hot-loader: ^4.13.0
-    react-icons: ^4.3.1
+    react-icons: ^4.6.0
     tailwindcss: ^3.0.24
     web-ext: ^6.8.0
   languageName: unknown
@@ -12406,12 +12406,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-icons@npm:^4.3.1":
-  version: 4.3.1
-  resolution: "react-icons@npm:4.3.1"
+"react-icons@npm:^4.6.0":
+  version: 4.6.0
+  resolution: "react-icons@npm:4.6.0"
   peerDependencies:
     react: "*"
-  checksum: 2cc608acdd3e906aa3aaee290b8398220639677c949382d86e554020e5dab6a9f1ed7484418aa5272cb5c5c018e1fc9a323d433d901697a76530029f9ecb1263
+  checksum: a08375d4563e381e156d826a8d551dd26c1bf7c424a79139173bf4c8df71e884badd7d4f5fe9faa0d73d18ace265bcc89891b65fd8f808812b1011b612ebbc53
   languageName: node
   linkType: hard
 
