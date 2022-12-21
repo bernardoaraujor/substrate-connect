@@ -3289,13 +3289,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/chrome@npm:^0.0.180":
-  version: 0.0.180
-  resolution: "@types/chrome@npm:0.0.180"
+"@types/chrome@npm:^0.0.206":
+  version: 0.0.206
+  resolution: "@types/chrome@npm:0.0.206"
   dependencies:
     "@types/filesystem": "*"
     "@types/har-format": "*"
-  checksum: b564442488cfceb18069ead55148762c392761a2174f1a5d3fb6077bfd7b9067b6008c1f41c0b0f118bf2155bbdd81d214723f2dddff15905c706f485d945090
+  checksum: 002af40b339ca0f665bf6e52af1fd2ecfdd4cffb6d10d891b0b4394c2a94d758e94e0d5497d38e9b45033eb8620ffa1a63e42294f88612507d9e74ddf3f6ce40
   languageName: node
   linkType: hard
 
@@ -13758,7 +13758,7 @@ __metadata:
     "@hot-loader/react-dom": ^17.0.2
     "@jest/globals": ^27.5.1
     "@types/asap": ^2.0.0
-    "@types/chrome": ^0.0.180
+    "@types/chrome": ^0.0.206
     "@types/copy-webpack-plugin": ^10.1.0
     "@types/jest": ^27.4.1
     "@types/jsdom": ^16.2.14
